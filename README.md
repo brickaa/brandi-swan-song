@@ -1,4 +1,2 @@
-politics-of-prevention
-======================
-
-Check out the live [website](http://apps.texastribune.org/politics-of-prevention/) 
+It’s Been Real, Texas, But Brandi’s Gotta Run
+==============================================
