@@ -70,7 +70,7 @@ body {
   }
 
   .grand-header-image {
-    background-image: url(http://apps.texastribune.org/politics-of-prevention/images/Prevention-Lead-1.jpg);
+    background-image: url(../images/Brandi-lead.jpg);
     background-position: center center;
     background-size: cover;
     bottom: 0;
@@ -272,7 +272,35 @@ body {
 			}
 		}
 	}
-	
+	.stat {
+    display: inline-block;
+    padding: 1em;
+    width: 30%;
+  }
+  .stat-small {
+      color: $dk_gray;
+      font-weight: 600;
+      font-family: $base-sans-serif;
+      line-height: 1.4em;
+      text-align: center;
+      font-size: 2em;
+    }
+
+  .stat-large {
+      color: $dk_gray;
+      font-weight: 600;
+      font-family: league-gothic;
+      line-height: 1.4em;
+      text-align: center;
+      font-size: 3em;
+    }
+
+  p.stat-text {
+      font: 400 0.85em helvetica;
+      line-height: 1.3em;
+      position: relative;
+      text-align: center;
+  }
 }
 .shareline {
 		h3 {
@@ -390,6 +418,8 @@ body {
 .hide {
 	display: none;
 }
+
+
 table {
   font-family: $base-sans-serif;
   font-size: 1em;
